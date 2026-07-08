@@ -1,0 +1,31 @@
+Material	Descrição	Unid	Qtde		
+341547	KERRISON COM REVESTIMENTO EM MATERIAL RIGIDO ESCURO PARA CIMA 1 MM - 24-979-01-14	Pç	2	HB1482-01-CB	
+399274	Micro porta agulha TI reto sem trava 21 cm	un	6	HB2426-21	
+341548	KERRISON COM REVESTIMENTO EM MATERIAL RIGIDO ESCURO PARA CIMA 3 MM - 24-979- 17-14	Pç	2	HB1482-03-CB	
+341550	KERRISON COM REVESTIMENTO EM MATERIAL RIGIDO ESCURO PARA CIMA 4 MM - 24-979- 25-14	Pç	2	HB1482-04-CB	
+399271	Micro Pinça TI Atraumática 1,2mm,18cm, titanio	un	6	HB0485-61	
+399273	Micro Pinça TI Atraumática 1,2mm,21cm, titanio	un	6	HB0490-53	
+398859	Contrabloqueador dediscectomia lombar, Caspar	un	1	NÃO COTAMOS	
+398860	Válvula, lateral 5cm	un	1	HB1564-24	
+398861	Kit Afastador - dissector lombar	un	1	HB1565-00	
+398862	Espéculo de discectomialombar Caspar 4cm	un	1	NÃO COTAMOS	
+398863	Espéculo de discectomialombar Caspar 6,5 cm	un	1	NÃO COTAMOS	
+398864	Válvula, lateral 4,5 cm	un	1	HB1564-23	
+398865	Válvula, lateral 4 cm	un	1	HB1564-22	
+398867	Pinças para substituição de válvulas 15-814-99-07	un	1	HB1589	
+398866	Válvula, lateral 6,5 cm	un	1	HB1564-27	
+398868	Espéculo de discectomialombar Caspar 5,5 cm	un	1	HB1563-04	
+398869	Espéculo de discectomialombar Caspar 6 cm	un	1	HB1563-05	
+398870	Válvula, lateral 5,5 cm	un	1	HB1564-25	
+398871	Válvula, lateral 6 cm	un	1	HB1564-26	
+398873	Espéculo de discectomialombar Caspar 5 cm	un	1	HB1563-03	
+398872	Espéculo de discectomialombar Caspar 4,5 cm	un	1	HB1563-02	
+398874	Válvula, lateral 3,5 cm	un	1	HB1564-01	
+399270	Cesto com suportes para acondicionamento do kit afastador lombar	un	1	Y181.10L	
+			4	Y857.71	
+303065	Clamp para fixação 24-189-09-07	Pç	1	NÃO COTAMOS	
+596940	Afastador De Atrio Cooley Maleável 60 X 20 Mm - Kls Martin  (24-189-10-07)	un	1	HB3898-26	50X20MM
+596938	Afastador De Atrio Cooley Maleavel 60 X 35 Cm - Kls Martin  (24-189-11-07)	un	1	HB3898-27	50X35MM
+596939	Afastador De Atrio Cooley Maleavel 60 X 45 Cm - Kls Martin (24-189-12-07)	un	1	NÃO COTAMOS	
+399272	Micro porta agulha TI reto com trava 21 cm	un	8	HB2425-21	
+341546	KERRISON COM REVESTIMENTO EM MATERIAL RIGIDO ESCURO PARA CIMA 2 MM - 24-979-09-14	Pç	2	HB1482-02-CB	

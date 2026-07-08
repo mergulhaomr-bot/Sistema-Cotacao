@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <!-- Gradient: blue left → orange right (matching the logo) -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#3333cc"/>
+      <stop offset="55%"  stop-color="#8833aa"/>
+      <stop offset="100%" stop-color="#ff6600"/>
+    </linearGradient>
+  </defs>
+
+  <!-- White background -->
+  <rect width="1080" height="1080" fill="#ffffff"/>
+
+  <!-- Orange arc / swoosh above the letters -->
+  <path d="M 180 430 Q 560 220 920 400"
+        fill="none" stroke="#ff6600" stroke-width="38"
+        stroke-linecap="round"/>
+
+  <!-- CMETK letters with gradient fill -->
+  <text x="540" y="680"
+        font-family="'Arial Black','Impact',sans-serif"
+        font-weight="900"
+        font-size="340"
+        text-anchor="middle"
+        fill="url(#grad)"
+        letter-spacing="-8">CMETK</text>
+
+  <!-- Soluções Hospitalares subtitle -->
+  <text x="540" y="790"
+        font-family="'Segoe UI',Arial,sans-serif"
+        font-weight="700"
+        font-size="72"
+        text-anchor="middle"
+        fill="#3333cc"
+        letter-spacing="1">Soluções Hospitalares</text>
+</svg>
